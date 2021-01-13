@@ -1,0 +1,24 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "typescript로 블록체인만들기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js",
+    "prestart" : "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MISEONGKIM/typechain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MISEONGKIM/typechain/issues"
+  },
+  "homepage": "https://github.com/MISEONGKIM/typechain#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
